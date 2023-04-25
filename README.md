@@ -108,7 +108,7 @@ Were evaluated:
 ## More information about his project:
 ### Tecnologies 🛠️
 * Used tools for this project:
-    - [Jupyter](https://jupyter.org) || [Python](https://www.python.org) || [Google Colab](https://colab.research.google.com) || [Visual Studio Code] (https://code.visualstudio.com/)
+    - [Jupyter](https://jupyter.org) || [Python](https://www.python.org) || [Google Colab](https://colab.research.google.com) || [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Latest-Update
 * April/25/2023
@@ -174,7 +174,7 @@ Foram avaliados:
 ## Mais informações sobre este projeto:
 ### Tecnologias 🛠️
 * Ferramentas utilizadas para este projeto:
-    - [Jupyter](https://jupyter.org) || [Python](https://www.python.org) || [Google Colab](https://colab.research.google.com) || [Visual Studio Code] (https://code.visualstudio.com/)
+    - [Jupyter](https://jupyter.org) || [Python](https://www.python.org) || [Google Colab](https://colab.research.google.com) || [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Últimas atualizações 
 * 25/04/2023
