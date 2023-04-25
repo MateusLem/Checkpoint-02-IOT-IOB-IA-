@@ -111,7 +111,7 @@ Were evaluated:
     - [Jupyter](https://jupyter.org) || [Python](https://www.python.org) || [Google Colab](https://colab.research.google.com) || [Visual Studio Code] (https://code.visualstudio.com/)
 
 ### Latest-Update
-* April/18/2023
+* April/25/2023
 ---
 Made with tenacity by Mateus Leme
 
@@ -177,7 +177,7 @@ Foram avaliados:
     - [Jupyter](https://jupyter.org) || [Python](https://www.python.org) || [Google Colab](https://colab.research.google.com) || [Visual Studio Code] (https://code.visualstudio.com/)
 
 ### Últimas atualizações 
-* 18/04/2023
+* 25/04/2023
 ---
 Feito com tenacidade por Mateus Leme
 
